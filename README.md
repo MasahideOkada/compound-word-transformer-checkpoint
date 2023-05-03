@@ -1,1 +1,2 @@
-[link](https://drive.google.com/drive/folders/1FnPELM6iW8dew1JRSDdbD0at1sAVNO58?usp=share_link) to my google drive folder that contains checkpoints and other files for [Compound Word Transformer](https://github.com/YatingMusic/compound-word-transformer) trained on 5.3K dataset.
+[link](https://drive.google.com/drive/folders/1FnPELM6iW8dew1JRSDdbD0at1sAVNO58?usp=share_link) to my google drive folder that contains checkpoints and other files for [Compound Word Transformer](https://github.com/YatingMusic/compound-word-transformer) trained on 5.3K dataset.\
+I won't continue to train the model on the dataset due to lack of resource.
